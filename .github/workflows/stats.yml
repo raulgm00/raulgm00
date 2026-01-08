@@ -1,0 +1,19 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta cada 24h
+  workflow_dispatch:      # Permite ejecución manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
