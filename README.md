@@ -53,7 +53,10 @@ My expertise bridges the gap between robust enterprise legacy systems (Oracle SO
 
 ### 📊 My Stats
 
-[![Raúl's GitHub Streak](https://streak-stats.demolab.com/?user=raulgm00&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raulgm00/raulgm00/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/raulgm00/raulgm00/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulgm00/raulgm00/output/github-contribution-grid-snake-dark.svg">
