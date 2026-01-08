@@ -17,7 +17,7 @@ My expertise bridges the gap between robust enterprise legacy systems (Oracle SO
 ### 🏆 Certifications
 
 | Certification | Issuer |
-|Data | --- |
+| --- | --- |
 | **Oracle Cloud Platform Application Integration Specialist** | Oracle |
 | **Scrum Foundation Professional Certificate (SFPCM)** | CertiProf |
 | **DevOps Essentials Professional Certificate (DEPC)** | CertiProf |
