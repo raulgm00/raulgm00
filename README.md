@@ -53,7 +53,10 @@ My expertise bridges the gap between robust enterprise legacy systems (Oracle SO
 
 ### 📊 My Stats
 
-[![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgm00&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgm00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My Stats
+
+[![Raúl's GitHub Streak](https://streak-stats.demolab.com?user=raulgm00&theme=radical)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=raulgm00&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raul-ulises-garcia-moreno/)
