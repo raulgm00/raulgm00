@@ -1,15 +1,15 @@
 ### Hola, soy Raúl García 👋
 
-[cite_start]Soy **Ingeniero en Sistemas** y **Desarrollador SOA Senior** con más de **10 años de experiencia**.
+Soy **Ingeniero en Sistemas** y **Desarrollador SOA Senior** con más de **10 años de experiencia**.
 
 Me especializo en arquitecturas de integración empresarial, diseño de APIs y microservicios. [cite_start]Tengo una sólida trayectoria trabajando con **Oracle SOA Suite** y estoy enfocado en la modernización de aplicaciones hacia la nube con **AWS y Spring Boot**[cite: 17, 18].
 
 ---
 
-- [cite_start]🔭 **Actualmente trabajo en:** Soluciones de integración híbrida (On-Premise & Cloud) para el sector bancario y retail[cite: 98, 163].
+- 🔭 **Actualmente trabajo en:** Soluciones de integración híbrida (On-Premise & Cloud) para el sector bancario y retail[cite: 98, 163].
 - 🚀 **Especialidad:** Desarrollo Backend (Java), Middleware (OSB/SOA) y DevOps.
-- [cite_start]⚡ **Dato curioso:** He liderado migraciones críticas de sistemas legados hacia arquitecturas orientadas a servicios en empresas como Televisa y Banesco[cite: 98, 391].
-- [cite_start]📫 **Contacto:** [raulgm00@gmail.com](mailto:raulgm00@gmail.com) [cite: 5]
+- ⚡ **Dato curioso:** He liderado migraciones críticas de sistemas legados hacia arquitecturas orientadas a servicios en empresas como Televisa y Banesco[cite: 98, 391].
+- 📫 **Contacto:** [raulgm00@gmail.com](mailto:raulgm00@gmail.com) [cite: 5]
 
 ---
 
